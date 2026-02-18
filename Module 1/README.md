@@ -48,13 +48,10 @@ Examples:Chatbots,Robots,Recommendation systems,Autonomous vehicles.
 
 ## 3. Detailed Comparison Chart
 
-
 ![WhatsApp Image 2026-02-17 at 6 43 17 PM](https://github.com/user-attachments/assets/f792417b-3abe-47a0-af73-88963500775d)
-
 ## 4. Diagram Representation
 
 ![WhatsApp Image 2026-02-17 at 6 43 18 PM](https://github.com/user-attachments/assets/c88ebd5a-8559-40a8-b86d-fdced02e8598)
-
 ##  5. Key Differences Summary
 - Human intelligence includes emotions, morality, and self-awareness.
 - Animal intelligence is mainly survival-oriented and instinct-driven.
@@ -75,18 +72,23 @@ Examples:Chatbots,Robots,Recommendation systems,Autonomous vehicles.
 
 ### Animal Intelligence
 
-|   Advantages                     |     Disadvantages        |
-|:--------------------------------:|:------------------------:|
-|Strong survival instincts  |    Limited abstract reasoning     |
-|Natural sensory abilities|  No complex language systems |
-|Environmental adaptability|Mostly instinct-bound|
+|   Advantages              |     Disadvantages               |
+|:-------------------------:|:-------------------------------:|
+|Strong survival instincts  |  Limited abstract reasoning     |
+|Natural sensory abilities  |  No complex language systems    |
+|Environmental adaptability |Mostly instinct-bound            |
 
-### 
+### Machine Intelligence
 
-|   Advantages                     |     Disadvantages        |
-|:--------------------------------:|:------------------------:|
-|Strong survival instincts  |           |
-|Natural sensory abilities|   |
-|||
+|   Advantages                |     Disadvantages                           |
+|:---------------------------:|:-------------------------------------------:|
+| High processing speed       |    No emotions                              |
+|Large data handling capacity |  Dependent on data quality                  |
+|Accuracy in repetitive tasks |Cannot think independently beyond programming|
 
+## 7. Conclusion
+Human, animal, and machine intelligence represent different dimensions of cognitive capability. Human intelligence remains the most advanced due to its creativity, emotional depth, reasoning ability, and moral awareness. Animal intelligence plays a crucial role in ecological survival and adaptation. 
 
+Machine intelligence significantly enhances computational efficiency and automation but lacks consciousness and emotional understanding.
+
+Understanding these differences is essential for advancing artificial intelligence responsibly while appreciating the complexity of biological intelligence systems.
