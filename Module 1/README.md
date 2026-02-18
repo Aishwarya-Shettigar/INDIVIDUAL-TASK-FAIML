@@ -45,3 +45,48 @@ It is implemented using algorithms, machine learning models, neural networks, an
 - No Natural Emotions – Cannot feel emotions.
 
 Examples:Chatbots,Robots,Recommendation systems,Autonomous vehicles.
+
+## 3. Detailed Comparison Chart
+
+
+![WhatsApp Image 2026-02-17 at 6 43 17 PM](https://github.com/user-attachments/assets/f792417b-3abe-47a0-af73-88963500775d)
+
+## 4. Diagram Representation
+
+![WhatsApp Image 2026-02-17 at 6 43 18 PM](https://github.com/user-attachments/assets/c88ebd5a-8559-40a8-b86d-fdced02e8598)
+
+##  5. Key Differences Summary
+- Human intelligence includes emotions, morality, and self-awareness.
+- Animal intelligence is mainly survival-oriented and instinct-driven.
+- Machine intelligence depends entirely on algorithms and data.
+- Humans possess consciousness; machines do not.
+- Machines process information much faster than biological systems.
+- Animals show moderate problem-solving ability compared to humans.
+
+## 6. Advantages and Disadvantages
+
+### Human Intelligence
+
+|   Advantages                     |     Disadvantages        |
+|:--------------------------------:|:------------------------:|
+|Creative and innovative thinking  |Emotional bias            |
+|Emotional and social understanding|Limited memory capacity   |
+|Ethical and moral decision-making |Slower computational speed|
+
+### Animal Intelligence
+
+|   Advantages                     |     Disadvantages        |
+|:--------------------------------:|:------------------------:|
+|Strong survival instincts  |    Limited abstract reasoning     |
+|Natural sensory abilities|  No complex language systems |
+|Environmental adaptability|Mostly instinct-bound|
+
+### 
+
+|   Advantages                     |     Disadvantages        |
+|:--------------------------------:|:------------------------:|
+|Strong survival instincts  |           |
+|Natural sensory abilities|   |
+|||
+
+
