@@ -110,7 +110,7 @@ True ethical consent requires clarity and simplicity.
 
 While message content is encrypted, metadata collection remains significant.
 
-Ethical question:Is collecting metadata consistent with the promise of privacy?
+Ethical question:Is collecting metadata consistent with the promise of privacy.
 
 Even without message content, metadata can reveal:
 - Social networks
@@ -217,44 +217,24 @@ Improved transparency could include:
 | User Autonomy     |          Strong  |
 | Data Minimization |	Moderate         |
 |Informed Consent	  |Needs Improvement |
-9. Recommendations
+
+## 9. Recommendations
 To enhance ethical data governance, WhatsApp could:
 
+1.Provide simplified privacy policy summaries.
 
-Provide simplified privacy policy summaries.
+2.Clearly define metadata retention periods.
 
+3.Offer stronger opt-out mechanisms for data sharing.
 
-Clearly define metadata retention periods.
+4.Increase transparency regarding cross-platform data usage.
 
+5.Conduct regular independent privacy audits.
 
-Offer stronger opt-out mechanisms for data sharing.
-
-
-Increase transparency regarding cross-platform data usage.
-
-
-Conduct regular independent privacy audits.
-
-
-
-10. Conclusion
+## 10. Conclusion
 The privacy policy of WhatsApp demonstrates a strong commitment to communication security through end-to-end encryption and robust technical safeguards. From a governance perspective, the platform complies with global regulations and provides meaningful user controls.
+
 However, ethical concerns remain regarding metadata collection, cross-platform data sharing with Meta Platforms, and the complexity of privacy documentation.
+
 In conclusion, WhatsApp maintains strong security standards but could improve transparency and user awareness to achieve higher ethical alignment in data governance practices.
 
-If you want, I can now:
-
-
-Add academic references in APA/IEEE format
-
-
-Generate a second governance framework diagram
-
-
-Expand this further for a 25-mark research-level submission
-
-
-Help you structure the GitHub README professionally with badges and formatting
-
-
-Tell me your required mark level 😊
