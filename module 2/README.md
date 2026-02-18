@@ -218,20 +218,7 @@ Improved transparency could include:
 | Data Minimization |	Moderate         |
 |Informed Consent	  |Needs Improvement |
 
-## 9. Recommendations
-To enhance ethical data governance, WhatsApp could:
-
-1.Provide simplified privacy policy summaries.
-
-2.Clearly define metadata retention periods.
-
-3.Offer stronger opt-out mechanisms for data sharing.
-
-4.Increase transparency regarding cross-platform data usage.
-
-5.Conduct regular independent privacy audits.
-
-## 10. Conclusion
+## 9. Conclusion
 The privacy policy of WhatsApp demonstrates a strong commitment to communication security through end-to-end encryption and robust technical safeguards. From a governance perspective, the platform complies with global regulations and provides meaningful user controls.
 
 However, ethical concerns remain regarding metadata collection, cross-platform data sharing with Meta Platforms, and the complexity of privacy documentation.
